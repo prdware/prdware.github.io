@@ -54,6 +54,6 @@ The time for PRDware is now. To programmers: Document your visions, share your P
 
 Join us in forging repositories, forums, and communities dedicated to PRDware. Let us flood the digital commons with these blueprints, sparking a renaissance where everyone is an architect of their own software destiny.
 
-PRDware is not just a movement; it is the future unbound. From the pages of old magazines to the prompts of tomorrow, we reclaim creation for all. Share a PRD today—unleash the apps of tomorrow.
+## AwesomePRD
 
-**Viva PRDware!**
+Build your own repos, or fork and submit a pull request to [AwesomePRD](https://prdware.github.io) 
