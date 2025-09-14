@@ -56,4 +56,4 @@ Join us in forging repositories, forums, and communities dedicated to PRDware. L
 
 ## AwesomePRD
 
-Build your own repos, or fork and submit a pull request to [AwesomePRD](https://prdware.github.io) 
+Build your own repos, or fork and submit a pull request to [AwesomePRD](https://github.com/prdware/awesomeprd) 
