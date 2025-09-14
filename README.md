@@ -2,7 +2,7 @@
 
 ## Preamble: From Code to Conception
 
-In the dawn of personal computing, when magazines like *Compute!* and books of BASIC programs ignited the spark of creation in bedrooms and garages across the world, freeware emerged as a radical act of generosity. Programmers shared their creations freely, democratizing access to tools that solved problems, entertained, and educated. Then came the open-source software (OSS) movement, which peeled back the veil further by sharing not just the executables, but the source code itself—inviting collaboration, forks, and endless innovation.
+In the dawn of personal computing, when magazines like [*Compute!*](https://www.computesgazette.com/) and books of BASIC programs ignited the spark of creation in bedrooms and garages across the world, freeware emerged as a radical act of generosity. Programmers shared their creations freely, democratizing access to tools that solved problems, entertained, and educated. Then came the open-source software (OSS) movement, which peeled back the veil further by sharing not just the executables, but the source code itself—inviting collaboration, forks, and endless innovation.
 
 But we stand now in the era of artificial intelligence, where the barriers to creation are no longer lines of code, but the very ideas that shape them. The old models, while noble, fall short. Not everyone is a coder; not everyone should need to be. Enter PRDware: a playful evolution of freeware, where we liberate not programs or code, but Product Requirements Documents (PRDs)—the blueprints of intent, the DNA of digital solutions. These are the high-level visions, specifications, and user stories that AI can transform into fully functional apps, tailored and reborn at will.
 
